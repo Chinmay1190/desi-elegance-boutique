@@ -1,5 +1,4 @@
-
-import { Product } from "@/types";
+import { Product, Category } from "@/types";
 
 export const products: Product[] = [
   // Traditional Clothing - Men
@@ -358,7 +357,7 @@ export const products: Product[] = [
     price: 2499,
     images: [
       "https://images.unsplash.com/photo-1611010344444-5f9e4d86a6e1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGVhdGhlciUyMHdhbGxldHxlbnwwfHwwfHx8MA%3D%3D",
-      "https://images.unsplash.com/photo-1556774687-ba95af767853?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bGVhdGhlciUyMHdhbGxldHxlbnwwfHwwfHx8MA%3D%3D"
+      "https://images.unsplash.com/photo-1556774687-ba95af76afd3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bGVhdGhlciUyMHdhbGxldHxlbnwwfHwwfHx8MA%3D%3D"
     ],
     category: "accessories",
     featured: true,
